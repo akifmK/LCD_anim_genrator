@@ -1,9 +1,11 @@
 # Arduino LCD Animation Generator
- Takes frames and turns them into 20x16 pixel animation. Outputs .ino file for Arduino that has an LCD screen connected to it.
-
-I originally made this to play "Bad Apple!!" on an LCD display.
-
+Takes gif and turns it into 20x16 pixel animation. Outputs .ino file for Arduino that has an LCD screen connected to it.
 The Arduino UNO can have a maximum of 31 looping frames with this method.
+
+!!  For I2C modules  !!
+
+Check the original version 
+TheFel0x/Arduino-LCD-Animation-Generator
 
 
 # Example
@@ -14,5 +16,4 @@ The Arduino UNO can have a maximum of 31 looping frames with this method.
 ![real](https://user-images.githubusercontent.com/43345523/112741284-b3354580-8f84-11eb-8d2a-d64ee4a1c950.gif)
 
 
-## This but for RPi
-[Click me!](https://github.com/TheFel0x/RPi-LCD-Animation-Generator)
+
