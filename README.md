@@ -2,7 +2,7 @@
 Takes gif and turns it into 20x16 pixel animation. Outputs .ino file for Arduino that has an LCD screen connected to it.
 The Arduino UNO can have a maximum of 31 looping frames with this method.
 
-!!  For I2C modules  !!
+!!  For I2C moduled LCD Screens  !!
 
 Check the original version 
 TheFel0x/Arduino-LCD-Animation-Generator
